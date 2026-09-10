@@ -1,596 +1,323 @@
-<!-- =========================================================
-     VENNELA GO — GITHUB PROFILE
-========================================================= -->
+<div align="center">
 
-<!-- ANIMATED HEADER -->
+<img src="./assets/space.png" width="650"/>
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=VENNELA%20GO&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&color=0:0F172A,50:312E81,100:7C3AED"
-    width="100%"
-  />
-</p>
+# VENNELA GODARI
 
-<!-- TYPING -->
+### SOFTWARE ENGINEER
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=software+developer;building+systems+that+solve+real+problems;Java+%2F+Python+%2F+JavaScript;AI+%2F+APIs+%2F+Cloud;always+building+something"
-    alt="Typing animation"
-  />
-</p>
+`ANDROID` · `AI / ML` · `BACKEND`
 
 <br>
 
-<!-- NAVIGATION -->
+<a href="#work">WORK</a>
+  ·   <a href="#stack">STACK</a>
+  ·   <a href="#achievements">ACHIEVEMENTS</a>
+  ·   <a href="#connect">CONNECT</a>
 
-<p align="center">
+</div>
 
-<a href="#work">
-<img src="https://img.shields.io/badge/WORK-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+---
 
-<a href="#stack">
-<img src="https://img.shields.io/badge/STACK-0F172A?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
+<div align="center">
 
-<a href="#activity">
-<img src="https://img.shields.io/badge/ACTIVITY-0F172A?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=BUILDING+REAL+WORLD+SOFTWARE;ANDROID+%2B+AI%2FML+%2B+BACKEND;EXPLORING+IDEAS+THROUGH+CODE;TURNING+PROBLEMS+INTO+SYSTEMS" />
 
-<a href="#connect">
-<img src="https://img.shields.io/badge/CONNECT-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</p>
-
-<br><br>
-
-<!-- =========================================================
-     INTRO
-========================================================= -->
-
-<h2 align="center">I build things that make ideas real.</h2>
-
-<p align="center">
-Software development is where I experiment, solve problems,
-<br>
-break things, rebuild them and keep learning.
-</p>
+</div>
 
 <br>
 
-<p align="center">
-<img
-src="https://capsule-render.vercel.app/api?type=rect&height=2&color=7C3AED&width=700"
-/>
-</p>
+## / ABOUT
 
-<br>
+I am a Computer Science Engineering student focused on building
+software that solves real-world problems.
 
-<!-- =========================================================
-     WORK
-========================================================= -->
+My work spans:
 
-<h2 id="work">Selected Work</h2>
+`Mobile Applications`
+`Artificial Intelligence`
+`Backend Systems`
+`Accessibility`
 
-<p>
-A collection of projects I've built, explored and experimented with.
-</p>
+I enjoy taking an idea from **problem → design → implementation → product**.
 
-<br>
+---
 
-<!-- PROJECT 1 -->
+# / WORK
 
-<table width="100%">
+<table>
 <tr>
 
-<td width="58%" valign="middle">
+<td width="50%" valign="top">
 
-<h3>Smart Ambulance Management System</h3>
+### 01
 
-<p>
-A multi-application emergency-response platform connecting
-patients, drivers and hospitals.
-</p>
+## SMART AMBULANCE
 
-<p>
-<b>Android</b> · <b>Firebase</b> · <b>Google Maps</b> · <b>Real-time systems</b>
-</p>
+**Emergency response platform**
+
+An Android application connecting patients, ambulance drivers
+and hospitals.
+
+**CORE**
+
+`Java` `Android Studio`
+`Firebase` `Google Maps API`
+
+**BUILT AROUND**
+
+Real-time ambulance tracking, emergency requests,
+authentication and real-time synchronization.
 
 <br>
 
-<a href="https://github.com/Vennela-go/smart-ambulance-management-system">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="YOUR_SMART_AMBULANCE_REPO">VIEW PROJECT →</a>
 
 </td>
 
-<td width="42%" align="center">
+<td width="50%" valign="top">
 
-<a href="https://github.com/Vennela-go/smart-ambulance-management-system">
+### 02
 
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=Vennela-go&repo=smart-ambulance-management-system&theme=transparent&hide_border=true&description_lines_count=2"
-/>
+## CARDIOSENSE
 
-</a>
+**AI heart disease prediction**
+
+A supervised machine-learning system for heart disease
+prediction and model evaluation.
+
+**CORE**
+
+`Python` `Scikit-learn`
+`Pandas` `NumPy` `XGBoost`
+
+**BUILT AROUND**
+
+Data preprocessing, feature engineering, model training
+and evaluation using Accuracy, Precision, Recall and F1-Score.
+
+<br>
+
+<a href="YOUR_CARDIOSENSE_REPO">VIEW PROJECT →</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 03
+
+## NEURO INCLUSIVE
+
+**Accessibility Chrome extension**
+
+A browser extension designed for users with ADHD and dyslexia.
+
+**CORE**
+
+`JavaScript` `HTML` `CSS`
+`Chrome Extension APIs`
+
+**BUILT AROUND**
+
+Bionic Reading, distraction-free mode, flashcards,
+summaries and customizable reading tools.
+
+<br>
+
+<a href="YOUR_NEURO_INCLUSIVE_REPO">VIEW PROJECT →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 04
+
+## WHAT'S NEXT
+
+I am continuing to explore the space where:
+
+```text
+SOFTWARE
+    +
+INTELLIGENCE
+    +
+HUMAN NEEDS
+```
+
+meet.
+
+More experiments are coming.
 
 </td>
 
 </tr>
 </table>
 
-<br>
+---
 
-<!-- PROJECT 2 -->
+# / STACK
 
-<table width="100%">
-<tr>
+<div align="center">
 
-<td width="42%" align="center">
-
-<a href="https://github.com/Vennela-go/Heart-Disease-Prediction">
-
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=Vennela-go&repo=Heart-Disease-Prediction&theme=transparent&hide_border=true&description_lines_count=2"
-/>
-
-</a>
-
-</td>
-
-<td width="58%" valign="middle">
-
-<h3>Heart Disease Prediction</h3>
-
-<p>
-A machine-learning project focused on analysing medical
-features and predicting heart-disease risk.
-</p>
-
-<p>
-<b>Python</b> · <b>Machine Learning</b> · <b>NumPy</b> · <b>Scikit-learn</b>
-</p>
-
-<br>
-
-<a href="https://github.com/Vennela-go/Heart-Disease-Prediction">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<!-- PROJECT 3 -->
-
-<table width="100%">
-<tr>
-
-<td width="58%" valign="middle">
-
-<h3>Store Intelligence</h3>
-
-<p>
-An experimental project exploring intelligent approaches
-to retail data and application development.
-</p>
-
-<p>
-<b>Python</b> · <b>Data</b> · <b>Intelligence</b>
-</p>
-
-<br>
-
-<a href="https://github.com/Vennela-go/store_intelligence">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="42%" align="center">
-
-<a href="https://github.com/Vennela-go/store_intelligence">
-
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=Vennela-go&repo=store_intelligence&theme=transparent&hide_border=true&description_lines_count=2"
-/>
-
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<!-- PROJECT 4 -->
-
-<table width="100%">
-<tr>
-
-<td width="42%" align="center">
-
-<a href="https://github.com/Vennela-go/subway-surfers-hand-gesture">
-
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=Vennela-go&repo=subway-surfers-hand-gesture&theme=transparent&hide_border=true&description_lines_count=2"
-/>
-
-</a>
-
-</td>
-
-<td width="58%" valign="middle">
-
-<h3>Gesture Controlled Game</h3>
-
-<p>
-An experimental computer-vision project exploring
-hand gestures as an interaction mechanism.
-</p>
-
-<p>
-<b>Python</b> · <b>Computer Vision</b> · <b>Gesture Recognition</b>
-</p>
-
-<br>
-
-<a href="https://github.com/Vennela-go/subway-surfers-hand-gesture">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,androidstudio,spring,firebase,aws,mysql,mongodb,git,github,linux&theme=dark" />
 
 <br><br>
 
-<!-- MORE PROJECTS -->
+`JAVA` · `PYTHON` · `C` · `C++` · `JAVASCRIPT`
 
-<p align="center">
+`ANDROID` · `SPRING BOOT` · `FIREBASE` · `AWS`
 
-<a href="https://github.com/Vennela-go?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+`MYSQL` · `MONGODB` · `FIREBASE FIRESTORE`
 
-</p>
+`SCIKIT-LEARN` · `PANDAS` · `NUMPY` · `XGBOOST`
 
-<br><br>
+</div>
 
-<!-- =========================================================
-     INTERACTIVE PROJECT DETAILS
-========================================================= -->
+---
 
-<h2>Explore the Projects</h2>
+# / ENGINEERING
 
-<details>
-<summary><b>Smart Ambulance — what makes it interesting?</b></summary>
-
-<br>
-
-The project is divided into separate applications for different
-participants in the emergency-response process.
-
-The repository contains the Android implementations,
-documentation and supporting project structure.
-
-<br>
-
-<a href="https://github.com/Vennela-go/smart-ambulance-management-system">
-Open repository →
-</a>
-
-</details>
-
-<br>
-
-<details>
-<summary><b>Machine Learning — what I'm exploring</b></summary>
-
-<br>
-
-I enjoy experimenting with machine-learning projects where
-data can be transformed into something useful for an application.
-
-<br>
-
-<a href="https://github.com/Vennela-go/Heart-Disease-Prediction">
-Open ML project →
-</a>
-
-</details>
-
-<br>
-
-<details>
-<summary><b>Experimental Projects</b></summary>
-
-<br>
-
-Some repositories are intentionally experimental — smaller
-projects where I explore an idea, technology or interaction.
-
-<br>
-
-<a href="https://github.com/Vennela-go/subway-surfers-hand-gesture">
-Gesture project →
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/Vennela-go/store_intelligence">
-Store Intelligence →
-</a>
-
-</details>
-
-<br><br>
-
-<!-- =========================================================
-     STACK
-========================================================= -->
-
-<h2 id="stack">Technology</h2>
-
-<p>
-The tools I use to turn ideas into working software.
-</p>
-
-<br>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,html,css&perline=7"/>
-</p>
-
-<br>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=spring,android,firebase,mysql,mongodb,aws,docker,git,github,linux&perline=10"/>
-</p>
-
-<br>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=idea,vscode,postman,figma,maven,npm&perline=6"/>
-</p>
-
-<br><br>
-
-<!-- =========================================================
-     WHAT I'M BUILDING WITH
-========================================================= -->
-
-<h2>Things I'm Into</h2>
-
-<br>
-
-<table width="100%">
+<table>
 <tr>
-
 <td width="25%" align="center">
 
-<img
-src="https://img.icons8.com/fluency/96/artificial-intelligence.png"
-width="52"
-/>
+### MOBILE
 
-<br><br>
-
-<b>AI</b>
-
-<br>
-
-<sub>Intelligent applications</sub>
+Android
+Firebase
+Maps API
 
 </td>
 
 <td width="25%" align="center">
 
-<img
-src="https://img.icons8.com/fluency/96/cloud.png"
-width="52"
-/>
+### AI / ML
 
-<br><br>
-
-<b>Cloud</b>
-
-<br>
-
-<sub>Scalable systems</sub>
+Machine Learning
+Deep Learning
+NLP
 
 </td>
 
 <td width="25%" align="center">
 
-<img
-src="https://img.icons8.com/fluency/96/api.png"
-width="52"
-/>
+### BACKEND
 
-<br><br>
-
-<b>APIs</b>
-
-<br>
-
-<sub>Connected software</sub>
+Spring Boot
+REST APIs
+JWT
 
 </td>
 
 <td width="25%" align="center">
 
-<img
-src="https://img.icons8.com/fluency/96/source-code.png"
-width="52"
-/>
+### CORE
 
-<br><br>
-
-<b>Engineering</b>
-
-<br>
-
-<sub>Clean solutions</sub>
+DSA
+OOP
+DBMS
+Networks
+OS
 
 </td>
-
 </tr>
 </table>
 
-<br><br>
+---
 
-<!-- =========================================================
-     GITHUB ANALYTICS
-========================================================= -->
+<div align="center">
 
-<h2 id="activity">GitHub Activity</h2>
+<img src="./assets/space.png" width="420"/>
 
-<p align="center">
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Vennela-go&bg_color=00000000&color=7C3AED&line=8B5CF6&point=EC4899&area=true&hide_border=true&custom_title=Contribution%20Activity"
-width="100%"
-/>
-</p>
+### "THE INTERESTING PROBLEMS ARE WORTH EXPLORING."
 
-<br>
+</div>
 
-<p align="center">
+---
 
-<img
-height="175"
-src="https://github-readme-stats.vercel.app/api?username=Vennela-go&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&icon_color=8B5CF6&text_color=64748B&rank_icon=github"
-/>
+# / ACHIEVEMENTS
 
-<img
-height="175"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vennela-go&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=64748B"
-/>
+```text
+GATE 2026
+CSE — QUALIFIED
 
-</p>
+TS ECET 2024
+STATE RANK 41
 
-<br>
+ACCESSIBILITY HACKATHON 2026
+2ND PRIZE — OSMANIA UNIVERSITY
 
-<p align="center">
+FLIPKART GRiD 8.0
+NATIONAL FINALIST
 
-<img
-src="https://streak-stats.demolab.com?user=Vennela-go&theme=transparent&hide_border=true&ring=7C3AED&fire=EC4899&currStreakLabel=7C3AED&sideLabels=64748B&dates=64748B"
-width="65%"
-/>
+NORTH SOUTH FOUNDATION
+SCHOLARSHIP RECIPIENT
 
-</p>
+TELANGANA DIGITAL LEARNING PROGRAM
+DIGITAL LEARNER INSTRUCTOR
+```
 
-<br><br>
+---
 
-<!-- =========================================================
-     GITHUB PULSE
-========================================================= -->
+# / GITHUB
 
-<h2>GitHub Pulse</h2>
+<div align="center">
 
-<p align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vennela-go&theme=transparent"
-width="100%"
-/>
-
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=00000000&color=ffffff&line=777777&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 <br>
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&include_all_commits=true" width="48%"/>
 
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vennela-go&theme=transparent"
-/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&background=00000000&border=00000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=777777" width="48%"/>
 
-&nbsp;&nbsp;
+</div>
 
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vennela-go&theme=transparent"
-/>
+---
 
-</p>
+# / CONNECT
 
-<br><br>
+<div align="center">
 
-<!-- =========================================================
-     CURRENT FOCUS
-========================================================= -->
-
-<h2>Current Focus</h2>
-
-<p align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1000&color=64748B&center=true&vCenter=true&width=750&lines=building+better+projects;learning+new+technologies;solving+interesting+problems;turning+experiments+into+products"
-alt="Current focus"
-/>
-
-</p>
-
-<br><br>
-
-<!-- =========================================================
-     CONNECT
-========================================================= -->
-
-<h2 id="connect">Connect</h2>
-
-<p align="center">
-
-<a href="https://github.com/Vennela-go">
-<img
-src="https://img.icons8.com/fluency/64/github.png"
-width="48"
-/>
+<a href="mailto:godarivennela9287@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+ 
 
-<a href="mailto:your-email@example.com">
-<img
-src="https://img.icons8.com/fluency/64/gmail.png"
-width="48"
-/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000"/>
 </a>
 
-</p>
+ 
+
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LEETCODE-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=000000"/>
+</a>
+
+</div>
 
 <br>
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/Vennela-go?tab=repositories">
-<img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+```text
+        ·                 ·
+              ✦
+                    ·
 
-</p>
+             VENNELA GODARI
 
-<br><br>
+          BUILD / LEARN / ITERATE
 
-<!-- =========================================================
-     FOOTER
-========================================================= -->
+                    ·
+              ✦
+        ·                 ·
+```
 
-<p align="center">
+</div>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=600&lines=build+%3E+learn+%3E+repeat"
-alt="Footer animation"
-/>
-
-</p>
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&color=0:7C3AED,50:312E81,100:0F172A"
-width="100%"
-/>
