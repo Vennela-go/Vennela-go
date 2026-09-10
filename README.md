@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/space.png" width="650"/>
+<img src="./space.png" width="650"/>
 
 # VENNELA GODARI
 
