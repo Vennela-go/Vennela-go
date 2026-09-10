@@ -1,104 +1,165 @@
 <div align="center">
 
-<img src="./space.png" width="650"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&height=70&lines=VENNELA+GODARI" />
 
-# VENNELA GODARI
-
-### SOFTWARE ENGINEER
-
-`ANDROID` · `AI / ML` · `BACKEND`
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=1800&pause=700&color=777777&center=true&vCenter=true&width=700&height=40&lines=SOFTWARE+ENGINEER;ANDROID+%2F%2F+AI%2FML+%2F%2F+BACKEND;BUILDING+SYSTEMS+THAT+MATTER" />
 
 <br>
 
-<a href="#work">WORK</a>
-  ·   <a href="#stack">STACK</a>
-  ·   <a href="#achievements">ACHIEVEMENTS</a>
-  ·   <a href="#connect">CONNECT</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FFFFFF&section=header" width="85%"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-bg=true&no-frame=true&row=1&column=6" width="85%"/>
 
 </div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=12&duration=3500&pause=1000&color=555555&center=true&vCenter=true&width=650&height=30&lines=EXPLORING+IDEAS+%7C+ENGINEERING+SYSTEMS+%7C+LEARNING+CONTINUOUSLY" />
+
+</div>
+
+<br>
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=BUILDING+REAL+WORLD+SOFTWARE;ANDROID+%2B+AI%2FML+%2B+BACKEND;EXPLORING+IDEAS+THROUGH+CODE;TURNING+PROBLEMS+INTO+SYSTEMS" />
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="100%" style="filter: grayscale(100%);"/>
 
 </div>
 
-<br>
+---
 
-## / ABOUT
+# VENNELA / 01
 
-I am a Computer Science Engineering student focused on building
-software that solves real-world problems.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-My work spans:
+## SOFTWARE ENGINEERING
 
-`Mobile Applications`
-`Artificial Intelligence`
-`Backend Systems`
-`Accessibility`
+Computer Science Engineering student building across
+**Android, AI/ML and backend development**.
 
-I enjoy taking an idea from **problem → design → implementation → product**.
+I like working on problems where software has a
+visible impact on the people using it.
+
+My projects include emergency-response systems,
+machine-learning applications and accessibility tools.
+
+</td>
+
+<td width="40%" valign="top">
+
+### FOCUS
+
+```text
+ANDROID
+
+AI / ML
+
+BACKEND
+
+ACCESSIBILITY
+
+SYSTEM DESIGN
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-# / WORK
+# SELECTED WORK / 02
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 01
+<img src="https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=900&q=80" width="100%" alt="Earth from space"/>
 
-## SMART AMBULANCE
+### SMART AMBULANCE
 
-**Emergency response platform**
+`ANDROID` `JAVA` `FIREBASE`
 
-An Android application connecting patients, ambulance drivers
-and hospitals.
+Emergency-response platform connecting
+patients, ambulance drivers and hospitals.
 
-**CORE**
+Real-time tracking and emergency coordination
+using Google Maps and Firebase.
 
-`Java` `Android Studio`
-`Firebase` `Google Maps API`
-
-**BUILT AROUND**
-
-Real-time ambulance tracking, emergency requests,
-authentication and real-time synchronization.
+<details>
+<summary>EXPLORE</summary>
 
 <br>
 
-<a href="YOUR_SMART_AMBULANCE_REPO">VIEW PROJECT →</a>
+**Technology**
+
+Java
+Android Studio
+Firebase
+Google Maps API
+
+**Core**
+
+Real-time ambulance tracking
+Emergency requests
+Firebase authentication
+Real-time synchronization
+
+<br>
+
+<a href="YOUR_SMART_AMBULANCE_REPO">VIEW REPOSITORY</a>
+
+</details>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 02
+<img src="https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=900&q=80" width="100%" alt="Medical visualization"/>
 
-## CARDIOSENSE
+### CARDIOSENSE
 
-**AI heart disease prediction**
+`PYTHON` `XGBOOST` `SCIKIT-LEARN`
 
-A supervised machine-learning system for heart disease
-prediction and model evaluation.
+AI-based heart disease prediction system using
+supervised machine learning.
 
-**CORE**
+Model training, feature engineering and
+performance evaluation.
 
-`Python` `Scikit-learn`
-`Pandas` `NumPy` `XGBoost`
-
-**BUILT AROUND**
-
-Data preprocessing, feature engineering, model training
-and evaluation using Accuracy, Precision, Recall and F1-Score.
+<details>
+<summary>EXPLORE</summary>
 
 <br>
 
-<a href="YOUR_CARDIOSENSE_REPO">VIEW PROJECT →</a>
+**Technology**
+
+Python
+Scikit-learn
+Pandas
+NumPy
+XGBoost
+
+**Evaluation**
+
+Accuracy
+Precision
+Recall
+F1-Score
+
+<br>
+
+<a href="YOUR_CARDIOSENSE_REPO">VIEW REPOSITORY</a>
+
+</details>
 
 </td>
 
@@ -108,49 +169,59 @@ and evaluation using Accuracy, Precision, Recall and F1-Score.
 
 <td width="50%" valign="top">
 
-### 03
+<img src="https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=900&q=80" width="100%" alt="Digital interface"/>
 
-## NEURO INCLUSIVE
+### NEURO INCLUSIVE
 
-**Accessibility Chrome extension**
+`JAVASCRIPT` `HTML` `CSS`
 
-A browser extension designed for users with ADHD and dyslexia.
+Accessibility-focused Chrome extension for users
+with ADHD and dyslexia.
 
-**CORE**
-
-`JavaScript` `HTML` `CSS`
-`Chrome Extension APIs`
-
-**BUILT AROUND**
-
-Bionic Reading, distraction-free mode, flashcards,
-summaries and customizable reading tools.
+<details>
+<summary>EXPLORE</summary>
 
 <br>
 
-<a href="YOUR_NEURO_INCLUSIVE_REPO">VIEW PROJECT →</a>
+**Features**
+
+Bionic Reading
+Distraction-free mode
+Flashcards
+Summaries
+Customizable reading tools
+
+<br>
+
+<a href="YOUR_NEURO_REPO">VIEW REPOSITORY</a>
+
+</details>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 04
+### ENGINEERING NOTES
 
-## WHAT'S NEXT
+<br>
 
-I am continuing to explore the space where:
+I am interested in software that combines:
 
-```text
-SOFTWARE
-    +
-INTELLIGENCE
-    +
-HUMAN NEEDS
-```
+**PRODUCT**
 
-meet.
+Useful interfaces and experiences.
 
-More experiments are coming.
+**SYSTEMS**
+
+Reliable backend and data layers.
+
+**INTELLIGENCE**
+
+Machine learning that serves a purpose.
+
+**PEOPLE**
+
+Accessibility and usability.
 
 </td>
 
@@ -159,69 +230,67 @@ More experiments are coming.
 
 ---
 
-# / STACK
+# TECHNOLOGY / 03
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,androidstudio,spring,firebase,aws,mysql,mongodb,git,github,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,androidstudio,spring,firebase,aws,mysql,mongodb,git,github,linux&perline=7&theme=dark" />
 
 <br><br>
 
-`JAVA` · `PYTHON` · `C` · `C++` · `JAVASCRIPT`
-
-`ANDROID` · `SPRING BOOT` · `FIREBASE` · `AWS`
-
-`MYSQL` · `MONGODB` · `FIREBASE FIRESTORE`
-
-`SCIKIT-LEARN` · `PANDAS` · `NUMPY` · `XGBOOST`
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=3000&pause=800&color=777777&center=true&vCenter=true&width=700&height=35&lines=JAVA+%2F+PYTHON+%2F+ANDROID+%2F+SPRING+BOOT+%2F+AI%2FML;FIREBASE+%2F+AWS+%2F+MYSQL+%2F+MONGODB+%2F+LINUX" />
 
 </div>
 
----
-
-# / ENGINEERING
+<br>
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td>
 
-### MOBILE
+**LANGUAGES**
 
-Android
-Firebase
-Maps API
+Java
+Python
+C
+C++
+JavaScript
+SQL
 
 </td>
 
-<td width="25%" align="center">
+<td>
 
-### AI / ML
+**BACKEND**
 
-Machine Learning
+Spring Boot
+REST APIs
+JWT Authentication
+
+</td>
+
+<td>
+
+**AI / ML**
+
+Scikit-learn
+Pandas
+NumPy
+XGBoost
 Deep Learning
 NLP
 
 </td>
 
-<td width="25%" align="center">
+<td>
 
-### BACKEND
+**CLOUD / DATA**
 
-Spring Boot
-REST APIs
-JWT
-
-</td>
-
-<td width="25%" align="center">
-
-### CORE
-
-DSA
-OOP
-DBMS
-Networks
-OS
+Firebase
+AWS
+MySQL
+MongoDB
+Firestore
 
 </td>
 </tr>
@@ -229,95 +298,120 @@ OS
 
 ---
 
+# GITHUB / 04
+
 <div align="center">
 
-<img src="./assets/space.png" width="420"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=FFFFFF&line=777777&point=FFFFFF&area=true&area_color=222222&hide_border=true&custom_title=ACTIVITY" width="100%"/>
 
-### "THE INTERESTING PROBLEMS ARE WORTH EXPLORING."
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=FFFFFF&rank_icon=github" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=888888" width="40%"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666" width="70%"/>
 
 </div>
 
 ---
 
-# / ACHIEVEMENTS
-
-```text
-GATE 2026
-CSE — QUALIFIED
-
-TS ECET 2024
-STATE RANK 41
-
-ACCESSIBILITY HACKATHON 2026
-2ND PRIZE — OSMANIA UNIVERSITY
-
-FLIPKART GRiD 8.0
-NATIONAL FINALIST
-
-NORTH SOUTH FOUNDATION
-SCHOLARSHIP RECIPIENT
-
-TELANGANA DIGITAL LEARNING PROGRAM
-DIGITAL LEARNER INSTRUCTOR
-```
-
----
-
-# / GITHUB
+# CONTRIBUTIONS / 05
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=00000000&color=ffffff&line=777777&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" alt="GitHub contribution animation"/>
+
+</div>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&include_all_commits=true" width="48%"/>
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&background=00000000&border=00000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=777777" width="48%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=2600&pause=800&color=777777&center=true&vCenter=true&width=600&height=30&lines=EVERY+COMMIT+LEAVES+A+TRACE" />
 
 </div>
 
 ---
 
-# / CONNECT
+# RECOGNITION / 06
 
 <div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-bg=true&no-frame=true&row=2&column=4" width="85%"/>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td align="center">
+
+**GATE 2026**
+
+CSE
+QUALIFIED
+
+</td>
+
+<td align="center">
+
+**TS ECET 2024**
+
+STATE
+RANK 41
+
+</td>
+
+<td align="center">
+
+**ACCESSIBILITY HACKATHON**
+
+2026
+2ND PRIZE
+
+</td>
+
+<td align="center">
+
+**FLIPKART GRiD 8.0**
+
+NATIONAL
+FINALIST
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# CONTACT / 07
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=600&height=40&lines=LET'S+BUILD+SOMETHING+INTERESTING" />
+
+<br><br>
 
 <a href="mailto:godarivennela9287@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000"/>
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
-
- 
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
-
- 
 
 <a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LEETCODE-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=000000"/>
+<img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=FFFFFF"/>
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-```text
-        ·                 ·
-              ✦
-                    ·
-
-             VENNELA GODARI
-
-          BUILD / LEARN / ITERATE
-
-                    ·
-              ✦
-        ·                 ·
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&section=footer"/>
 
 </div>
-
