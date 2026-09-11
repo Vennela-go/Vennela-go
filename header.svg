@@ -1,0 +1,209 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#050816"/>
+    <stop offset="55%" stop-color="#0b1224"/>
+    <stop offset="100%" stop-color="#111827"/>
+  </linearGradient>
+
+  <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#f8fafc"/>
+    <stop offset="48%" stop-color="#60a5fa"/>
+    <stop offset="100%" stop-color="#a78bfa"/>
+  </linearGradient>
+
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#60a5fa" stop-opacity="1"/>
+    <stop offset="100%" stop-color="#a78bfa" stop-opacity="0"/>
+  </linearGradient>
+
+  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+    <path d="M42 0H0V42" fill="none" stroke="#64748b" stroke-opacity=".11"/>
+  </pattern>
+
+  <filter id="softGlow">
+    <feGaussianBlur stdDeviation="5" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <filter id="tinyGlow">
+    <feGaussianBlur stdDeviation="2" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <clipPath id="round">
+    <rect width="1200" height="420" rx="24"/>
+  </clipPath>
+</defs>
+
+<g clip-path="url(#round)">
+  <rect width="1200" height="420" fill="url(#bg)"/>
+  <rect width="1200" height="420" fill="url(#grid)"/>
+
+  <!-- Animated ambient glow -->
+  <circle cx="155" cy="205" r="100" fill="#2563eb" opacity=".10">
+    <animate attributeName="r" values="80;125;80" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".05;.16;.05" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1050" cy="185" r="110" fill="#8b5cf6" opacity=".08">
+    <animate attributeName="r" values="110;145;110" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".05;.13;.05" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Moving scan line -->
+  <rect x="-250" y="0" width="180" height="420" fill="#60a5fa" opacity=".035">
+    <animate attributeName="x" from="-250" to="1250" dur="8s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Decorative circuit traces -->
+  <g fill="none" stroke="#60a5fa" stroke-opacity=".28" stroke-width="1">
+    <path d="M40 75H180V115H245"/>
+    <path d="M1160 75H1020V115H955"/>
+    <path d="M35 340H155V300H215"/>
+    <path d="M1165 340H1045V300H985"/>
+  </g>
+
+  <g fill="#60a5fa">
+    <circle cx="180" cy="75" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="1020" cy="75" r="3"><animate attributeName="opacity" values="1;.2;1" dur="2.1s" repeatCount="indefinite"/></circle>
+    <circle cx="155" cy="340" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1045" cy="340" r="3"><animate attributeName="opacity" values="1;.2;1" dur="1.7s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- Orbit -->
+  <g transform="translate(600 204)" fill="none" stroke="#64748b" stroke-opacity=".22">
+    <ellipse rx="360" ry="105" stroke-dasharray="4 12">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="22s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse rx="310" ry="82" stroke-dasharray="2 16" transform="rotate(25)">
+      <animateTransform attributeName="transform" type="rotate" from="25" to="-335" dur="17s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <!-- Floating nodes -->
+  <g fill="#93c5fd" filter="url(#tinyGlow)">
+    <circle cx="275" cy="145" r="3">
+      <animate attributeName="cy" values="145;132;145" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="935" cy="150" r="3">
+      <animate attributeName="cy" values="150;164;150" dur="3.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="310" cy="285" r="2">
+      <animate attributeName="cx" values="310;325;310" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="890" cy="290" r="2">
+      <animate attributeName="cx" values="890;875;890" dur="4.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Main identity -->
+  <text x="600" y="92" text-anchor="middle"
+        font-family="monospace" font-size="16" letter-spacing="6"
+        fill="#94a3b8">
+    &lt; CREATE • LEARN • BUILD /&gt;
+  </text>
+
+  <text x="600" y="170" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="58" font-weight="800"
+        letter-spacing="3" fill="url(#title)">
+    VENNELA GODARI
+  </text>
+
+  <!-- Animated underline -->
+  <rect x="470" y="238" width="260" height="2" rx="1" fill="url(#line)">
+    <animate attributeName="width" values="90;260;90" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="555;470;555" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Animated role carousel -->
+  <g font-family="monospace" font-size="18" font-weight="600"
+     letter-spacing="3" text-anchor="middle" fill="#cbd5e1">
+    <text x="600" y="226">
+      SOFTWARE DEVELOPER
+      <animate attributeName="opacity"
+               values="1;1;0;0;0;0;0;0;0"
+               keyTimes="0;.18;.22;.25;.43;.47;.50;.72;1"
+               dur="12s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="600" y="226">
+      COMPETITIVE PROGRAMMER
+      <animate attributeName="opacity"
+               values="0;0;1;1;0;0;0;0;0"
+               keyTimes="0;.18;.22;.25;.43;.47;.50;.72;1"
+               dur="12s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="600" y="226">
+      OPEN SOURCE CONTRIBUTOR
+      <animate attributeName="opacity"
+               values="0;0;0;0;1;1;0;0;0"
+               keyTimes="0;.18;.22;.25;.43;.47;.50;.72;1"
+               dur="12s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="600" y="226">
+      AI / ML ENTHUSIAST
+      <animate attributeName="opacity"
+               values="0;0;0;0;0;0;1;1;1"
+               keyTimes="0;.18;.22;.25;.43;.47;.50;.72;1"
+               dur="12s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- Skill chips: clickable -->
+  <g font-family="monospace" font-size="14" font-weight="600">
+    <a xlink:href="https://developer.android.com/" target="_blank">
+      <rect x="280" y="255" width="145" height="42" rx="21" fill="#111827" stroke="#334155"/>
+      <text x="352" y="281" text-anchor="middle" fill="#86efac">ANDROID</text>
+    </a>
+
+    <a xlink:href="https://scikit-learn.org/" target="_blank">
+      <rect x="440" y="255" width="145" height="42" rx="21" fill="#111827" stroke="#334155"/>
+      <text x="512" y="281" text-anchor="middle" fill="#c4b5fd">AI / ML</text>
+    </a>
+
+    <a xlink:href="https://spring.io/" target="_blank">
+      <rect x="600" y="255" width="145" height="42" rx="21" fill="#111827" stroke="#334155"/>
+      <text x="672" y="281" text-anchor="middle" fill="#93c5fd">BACKEND</text>
+    </a>
+
+    <a xlink:href="https://github.com/vennela-go" target="_blank">
+      <rect x="760" y="255" width="145" height="42" rx="21" fill="#111827" stroke="#334155"/>
+      <text x="832" y="281" text-anchor="middle" fill="#f0abfc">BUILD</text>
+    </a>
+  </g>
+
+  <!-- Animated terminal line -->
+  <g font-family="monospace">
+    <text x="600" y="335" text-anchor="middle" font-size="14" fill="#64748b">
+      $ <tspan fill="#93c5fd">whoami</tspan>
+      <tspan fill="#cbd5e1">  vennela-go</tspan>
+    </text>
+    <text x="600" y="360" text-anchor="middle" font-size="13" fill="#64748b">
+      <tspan fill="#86efac">●</tspan>
+      <tspan> turning ideas into useful software</tspan>
+    </text>
+  </g>
+
+  <!-- Blinking cursor -->
+  <rect x="835" y="348" width="7" height="15" fill="#60a5fa">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Bottom accent -->
+  <path d="M0 405 Q300 385 600 405 T1200 405" fill="none" stroke="#60a5fa" stroke-opacity=".35"/>
+</g>
+
+<rect x="1" y="1" width="1198" height="418" rx="24" fill="none" stroke="#334155" stroke-opacity=".65"/>
+</svg>
